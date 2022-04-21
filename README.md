@@ -1,7 +1,11 @@
 <h1 align="center">Hello there, I'm Jorge /ˈxoɾxe/, [ˈxoɾ.xe] and I'm a 👇</h1>
 <h2 align="center">Software Engineer 💻</h2>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+<a href="https://www.linkedin.com/in/jorgepaul42/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</div>  
 
 <h3 align="center">My preferred languages:</h3>
 <div align="center">
@@ -210,3 +214,8 @@
 </div>
 
 <br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=weyvern&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://www.codewars.com/users/PaulWeyvern/badges/large" align="center" />
+</div>  
